@@ -5,3 +5,4 @@ __pycache__/
 coverage.xml
 test-results/
 .pytest_cache/
+.coverage
